@@ -1126,10 +1126,10 @@
         <div class="container header-inner">
             <div style="display:flex;align-items:center;gap:12px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
-                    <i class="fas fa-bars"></i>
+                    <em class="fas fa-bars"></em>
                 </button>
                 <a class="brand" href="#">
-                    <i class="fas fa-store-alt"></i>
+                    <em class="fas fa-store-alt"></em>
                     <span>Nexus<span class="accent">Shop</span></span>
                 </a>
             </div>
@@ -1140,7 +1140,7 @@
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
                     <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
                     <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
+                    <li><a href="#testimonials"><em class="fas fa-star"></em> Reviews</a></li>
                 </ul>
             </nav>
 
