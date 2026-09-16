@@ -1147,7 +1147,7 @@
             <div style="display:flex;align-items:center;gap:10px;">
                 <div class="search-wrap" role="search">
                     <input type="search" id="searchInput" placeholder="Search products..." aria-label="Search" />
-                    <button id="searchBtn" aria-label="Submit search"><i class="fas fa-search"></i></button>
+                    <button id="searchBtn" aria-label="Submit search"><em class="fas fa-search"></em></button>
                 </div>
 
                 <div class="header-actions">
